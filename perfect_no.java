@@ -21,8 +21,7 @@ public class perfect_no {
         else{
             System.out.println(n+" is not the perfect number");
         }
-
-
+        sc.close();
     }
     
 }

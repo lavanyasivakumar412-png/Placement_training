@@ -23,7 +23,7 @@ public class smallest3 {
     else{
         System.out.println("Smallest number is "+num3);
     }
-
+    sc.close();
     }
     }
 

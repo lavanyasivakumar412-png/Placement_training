@@ -13,8 +13,7 @@ public class Divide_by_5{
         else{
             System.out.println(num1+"is not divisible by 5");
         }
-        
-
+        sc.close();
     }
     
 }

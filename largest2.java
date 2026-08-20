@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class largest{
+public class largest2{
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
-        
+
         System.out.println("Enter a number 1: ");
         int num1= sc.nextInt();
 
@@ -17,7 +17,7 @@ public class largest{
             System.out.println("Largest Number is "+num2);
         }
         
-
+    sc.close();
     }
     
 }

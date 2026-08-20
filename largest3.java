@@ -23,7 +23,7 @@ public class largest3 {
     else{
         System.out.println("Largest number is "+num3);
     }
-
+    sc.close();
     }
     }
 
